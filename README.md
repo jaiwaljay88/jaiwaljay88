@@ -83,7 +83,7 @@ ___
 ## ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanketgawali4377&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&radius=8&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiwaljay88&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&radius=8&hide_border=true" />
 </p>
 
 ---

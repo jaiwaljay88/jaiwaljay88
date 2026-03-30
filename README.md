@@ -5,7 +5,7 @@
 
 <h3>🚀 Building • Learning • Innovating</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=First-Year+Computer+Engineering+Student;AI+Enthusiast;Vibe+Coder;Full+Stack+Learner;Chess+Player+♟️" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=First-Year+Computer+Engineering+Student;blockchain;FullVibe+Coder;cybersecurity" />
 
 </div>
 
@@ -36,7 +36,8 @@
 ### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
@@ -62,11 +63,6 @@
 <p align="center">
   <img height="180px" 
   src="https://streak-stats.demolab.com?user=jaiwaljay88&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiwaljay88&layout=compact&theme=tokyonight&hide_title=true" />
 </p>
 
 ___

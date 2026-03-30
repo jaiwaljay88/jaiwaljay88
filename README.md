@@ -13,15 +13,13 @@
 
 ## 🧠 About Me
 
-I’m a **First-Year Computer Engineering student (SPPU)** who enjoys turning ideas into real, working systems.  
+## 👨‍💻 About Me
 
-I’m currently exploring **AI-powered development, fast prototyping, and full-stack building**, focusing on projects that combine **logic, creativity, and real-world impact**.  
-
-I believe in learning by building — not just consuming tutorials.  
-
-♟️ I approach coding like chess:  
-**analyze → plan → execute → improve**
-
+- 🎓 Computer Engineering Student  
+- 💻 Passionate about Blockchain & Web Development  
+- 🚀 Love building real-world projects  
+- 🧠 Always learning new technologies  
+- 🤝 Interested in collaboration & hackathons  
 ---
 
 ## 🔥 Current Focus
@@ -29,8 +27,7 @@ I believe in learning by building — not just consuming tutorials.
 - 🤖 AI-driven development & automation  
 - ⚡ Fast prototyping using tools like Lovable  
 - 🧠 Strengthening DSA & problem-solving  
--   
--  
+- ⛓️‍💥 blockchain & cybersecurity
 
 ---
 

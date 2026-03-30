@@ -2,7 +2,7 @@
 
 <a href="https://freeimage.host/i/qeo5gN1"><img src="https://iili.io/qeo5gN1.md.png" alt="qeo5gN1.md.png" border="0"></a>
 
-<h1>Hi 👋, I'm Sanket Gawali</h1>
+<h1>Hi 👋, I'm jay jaiwal</h1>
 
 <h3>🚀 Building • Learning • Innovating</h3>
 
@@ -101,7 +101,7 @@ ___
 
 <p align="left">
 
-<a href="mailto:sanketgawali4377@gmail.com">
+<a href="mailto:jaywaljay88@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 

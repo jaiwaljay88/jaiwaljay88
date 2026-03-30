@@ -29,8 +29,8 @@ I believe in learning by building — not just consuming tutorials.
 - 🤖 AI-driven development & automation  
 - ⚡ Fast prototyping using tools like Lovable  
 - 🧠 Strengthening DSA & problem-solving  
-- 🌐 Learning full-stack development step-by-step  
-- 🏫 Building autonomous college projects (SPPU)  
+-   
+-  
 
 ---
 
@@ -42,11 +42,6 @@ I believe in learning by building — not just consuming tutorials.
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
-### 🎨 Frontend & Design
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ### 🤖 AI & Automation
@@ -82,7 +77,7 @@ ___
 ## ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanketgawali4377&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&radius=8&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiwaljay88&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&radius=8&hide_border=true" />
 </p>
 
 ---
@@ -100,7 +95,7 @@ ___
 
 <p align="left">
 
-<a href="mailto:sanketgawali4377@gmail.com">
+<a href="mailto:jaiwaljay88@gmail.com.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
